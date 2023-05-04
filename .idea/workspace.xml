@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5849ac6e-dc02-4738-a65d-8a4afabc4871" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5849ac6e-dc02-4738-a65d-8a4afabc4871" name="Changes" comment="second commit added servers">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/sujith/school/controller/SchoolController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/sujith/school/repo/SchoolRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/sujith/school/service/SchoolService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/discovery/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/discovery/src/main/java/com/sujith/discovery/DiscoveryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery/src/main/java/com/sujith/discovery/DiscoveryApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/school/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/src/main/java/com/sujith/school/entity/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/src/main/java/com/sujith/school/entity/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/school/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +59,18 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/sujit/OneDrive/Desktop/springCloud/school/pom.xml",
+    "last_opened_file_path": "C:/Users/sujit/OneDrive/Desktop/springCloud/school/src/main/java/com/sujith/school",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\sujit\\AppData\\Roaming\\npm\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "spring.configuration.checksum": "dbd4e0ece3f10ae34cb30cfe4ee1765c",
     "vue.rearranger.settings.migration": "true"
   }
@@ -68,6 +78,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.sujith.student.repo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sujit\OneDrive\Desktop\springCloud\school\src\main\java\com\sujith\school" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -127,8 +140,16 @@
       <workItem from="1683129737469" duration="4935000" />
       <workItem from="1683170238706" duration="167000" />
       <workItem from="1683170460114" duration="8731000" />
-      <workItem from="1683188831702" duration="2126000" />
+      <workItem from="1683188831702" duration="7244000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit added servers">
+      <created>1683191542072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683191542072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,5 +158,9 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="application.properties" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="application.yml" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit added servers" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit added servers" />
   </component>
 </project>
